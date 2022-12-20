@@ -1,6 +1,6 @@
 {
-  "short_name": "LSA App",
-  "name": "LSA App",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,9 +18,8 @@
       "sizes": "512x512"
     }
   ],
+  "start_url": "/",
   "display": "standalone",
-  "lang": "en",
   "theme_color": "#000000",
-  "background_color": "#ffffff",
-  "start_url": "/"
+  "background_color": "#ffffff"
 }
